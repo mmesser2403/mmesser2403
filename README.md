@@ -1,8 +1,6 @@
 # Hi, I'm Michelle 👋
 
-**MS Data Science @ UNC Wilmington** | Data Science Intern @ Predicate AI Labs
-
-I build machine learning pipelines and deploy models on real-world biomedical and behavioral datasets. I'm passionate about the intersection of psychology, health data, and applied AI — from CNNs on MRI scans to multi-agent research systems.
+**MS Data Science @ UNC Wilmington** 
 
 ---
 
